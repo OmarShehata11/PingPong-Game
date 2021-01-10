@@ -3,7 +3,7 @@ import time
 import random
 
 wind = turtle.Screen()
-wind.title("Bing Bong game")
+wind.title("ping pong game")
 wind.bgcolor("black")
 wind.setup(width=800, height=700)
 wind.tracer(0)
